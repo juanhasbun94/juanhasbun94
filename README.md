@@ -2,7 +2,7 @@
 - 👀 I’m interested in ntewords, coding and cibersecurity.
 - 🌱 I’m currently learning networks, coding and cibersecurity
 - 💞️ I’m looking to collaborate on cibersecurity
-- 📫 How to reach me: juaanhasbun94@gmail.com.
+- 📫 How to reach me: juanhasbun94@gmail.com.
 
 <!---
 juanhasbun94/juanhasbun94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
